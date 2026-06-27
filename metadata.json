@@ -1,0 +1,6 @@
+{
+  "name": "Viral Factory",
+  "description": "SaaS profissional de edição de vídeos em massa e templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
